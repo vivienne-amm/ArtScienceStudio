@@ -1,7 +1,4 @@
 # ArtScienceStudio
-
-I contributed to the Art Science Studio by designing and creating AR Posters and an AR application.
-
 The [**Art Science Studio**](https://pq.cz/pq-2023-info/projects-2023/student-exhibition-pq/germany-pov-pq/) is a collaborative studio bringing together five computer science students from TU Dresden with six theatre students from the Dresden Academy of Fine Arts (HfBK). The course was led by junior professors Theda Nilsson from HfBK Dresden and Matthew McGinity from TU Dresden. 
 we 
 To represent Germany at the student competition of the 15th edition of the [Prague Quadrennial of Performance, Design, and Space](https://pq.cz), we created a pavilion encapsulating elements of German culture - the garden houses adorned with garden gnomes and techno music.
